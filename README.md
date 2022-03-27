@@ -6,7 +6,7 @@
 
 ### [Chapter3. 타입과 추상화](./Chapter3/Chapter3.md)
 
-### Chapter4. 역할, 책임, 협력
+### [Chapter4. 역할, 책임, 협력](./Chapter4/Chapter4.md)
 
 ### Chapter5. 책임과 메시지
 
